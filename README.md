@@ -49,26 +49,6 @@ Me apasiona construir aplicaciones robustas, escalables y eficientes, aplicando 
 
 ---
 
-### 📂 Proyectos Destacados
-
-🔹 **MyCar – Sistema Web de Gestión de Alquileres**
-* **Descripción:** Aplicación Full-Stack (MVC) para la administración automatizada y reserva de vehículos.
-* **Stack:** PHP, CodeIgniter 4, SQL.
-* **Características clave:** Control de acceso por roles (Admin/Cliente), borrado lógico (*soft deletes*) para integridad histórica, consultas relacionales complejas de ocupación y validación estricta de formularios.
-
-🔹 **Sistema de Gestión Educativa**
-* **Descripción:** Aplicación de escritorio interactiva enfocada en la administración y automatización de registros escolares.
-* **Stack:** Java, GUI (Swing/AWT).
-* **Características clave:** Aplicación avanzada de POO (Herencia, polimorfismo, encapsulamiento), persistencia en disco con lectura/escritura de archivos y algoritmos de ordenamiento para consultas dinámicas.
-
----
-
-### 🏆 Logros Destacados
-
-* 🥇 **1º Puesto - Competencia Nacional de Robótica (UAI):** Lideré el desarrollo en equipo de un proyecto automatizado, logrando la integración óptima de hardware y software bajo resolución de problemas complejos.
-
----
-
 ### 📫 Conectemos
 
 <p align="left">
