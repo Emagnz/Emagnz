@@ -14,11 +14,6 @@ Soy **Desarrollador Web Junior** enfocado en el ecosistema **Full-Stack**. Actua
 
 Me apasiona construir aplicaciones robustas, escalables y eficientes, aplicando buenas prácticas de desarrollo como la Programación Orientada a Objetos (POO), arquitectura MVC y modelado riguroso de bases de datos.
 
-* 📍 **Ubicación:** San Luis, Argentina
-* 💼 **Actualidad:** Pasante QA en UNSL
-* 🌱 **Aprendiendo activamente:** `Node.js` y `Go (Golang)`
-* 🏆 **Logro destacado:** 1er puesto - Competencia Nacional de Robótica (UAI)
-
 ---
 
 ### 🛠️ Tecnologías y Herramientas
@@ -84,8 +79,6 @@ Me apasiona construir aplicaciones robustas, escalables y eficientes, aplicando 
 
 ### 📊 Estadísticas de GitHub
 
-> ℹ️ Usa [GitHub-Stats-Extended](https://github.com/stats-organization/github-stats-extended), el fork mantenido activamente que reemplaza al servicio público original (pausado desde enero 2026). Misma sintaxis, mismos parámetros.
-
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Emagnz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=Emagnz&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165"/>
@@ -103,7 +96,7 @@ Me apasiona construir aplicaciones robustas, escalables y eficientes, aplicando 
   <a href="mailto:emagonzalez2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-emagonzalez2006%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/emanuel-gonzalez">
+  <a href="https://www.linkedin.com/in/emanuel-gonzalez-5a320a41b/">
     <img src="https://img.shields.io/badge/LinkedIn-Emanuel%20Gonzalez-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
