@@ -17,6 +17,7 @@ Me apasiona construir aplicaciones robustas, escalables y eficientes, aplicando 
 * 📍 **Ubicación:** San Luis, Argentina
 * 💼 **Actualidad:** Pasante QA en UNSL
 * 🌱 **Aprendiendo activamente:** `Node.js` y `Go (Golang)`
+* 🏆 **Logro destacado:** 1er puesto - Competencia Nacional de Robótica (UAI)
 
 ---
 
@@ -49,6 +50,51 @@ Me apasiona construir aplicaciones robustas, escalables y eficientes, aplicando 
 
 ---
 
+### 📌 Proyectos Destacados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚗 Sistema Web de Gestión de Alquileres "MyCar"</h4>
+      <p>Aplicación web Full-Stack con patrón <b>MVC</b> para la administración automatizada y reserva de vehículos.</p>
+      <ul>
+        <li>Control de acceso por roles (Administrador / Cliente)</li>
+        <li>Flujo completo de reservas, aprobaciones y registros</li>
+        <li>Borrado lógico (<i>soft deletes</i>) para preservar historiales</li>
+      </ul>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+      <img src="https://img.shields.io/badge/CodeIgniter%204-DD4814?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter 4"/>
+      <img src="https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏫 Sistema de Gestión - Institución Educativa</h4>
+      <p>Aplicación de escritorio con interfaz gráfica (GUI) para administrar registros de personal y alumnos.</p>
+      <ul>
+        <li>Herencia, encapsulamiento y polimorfismo aplicados</li>
+        <li>Persistencia de datos vía archivos de texto</li>
+        <li>Algoritmos de ordenamiento para listados dinámicos</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/POO-GUI-blue?style=flat-square" alt="POO"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emagnz&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emagnz&theme=radial&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emagnz&layout=compact&theme=radial&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
 ### 📫 Conectemos
 
 <p align="left">
@@ -63,5 +109,5 @@ Me apasiona construir aplicaciones robustas, escalables y eficientes, aplicando 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emagnz&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=Emagnz&label=Visitas%20al%20perfil&color=39D353&style=flat-square" alt="Profile Views" />
 </p>
