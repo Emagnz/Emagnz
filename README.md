@@ -1,11 +1,11 @@
-<p align="center">
+[<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,100:0A66C2&height=200&section=header&text=Emanuel%20Gonzalez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web%20Junior%20%7C%20Full-Stack&descAlignY=58&descSize=20" alt="header banner"/>
 </p>
 <p align="center">
   <a href="https://github.com/Emagnz">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Desarrollador+Web+Junior;Full-Stack+Developer+(PHP+/+JS);Apasionado+por+la+Tecnología" alt="Typing SVG" />
   </a>
-</p>
+</p>](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Desarrollador+Web+Junior;Full-Stack+Developer+(PHP+%2F+JS);Apasionado+por+la+Tecnologia)
 ---
 
 ### 🚀 Sobre Mí
