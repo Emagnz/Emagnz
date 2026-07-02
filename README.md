@@ -86,13 +86,15 @@ Me apasiona construir aplicaciones robustas, escalables y eficientes, aplicando 
 
 ### 📊 Estadísticas de GitHub
 
+> ℹ️ Usa [GitHub-Stats-Extended](https://github.com/stats-organization/github-stats-extended), el fork mantenido activamente que reemplaza al servicio público original (pausado desde enero 2026). Misma sintaxis, mismos parámetros.
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emagnz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Emagnz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=Emagnz&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emagnz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Emagnz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
 </p>
 
 ---
