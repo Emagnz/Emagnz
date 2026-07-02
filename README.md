@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=45&section=header&text=Desarrollador%20Web%20Junior%20%E2%80%A2%20Full-Stack%20Developer%20(PHP%20%2F%20JS)%20%E2%80%A2%20Apasionado%20por%20la%20Tecnolog%C3%ADa&fontSize=15&fontColor=39D353&animation=fadeIn&fontAlignY=60" alt="tagline"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=45&section=header&text=Desarrollador%20Web%20Junior%20%E2%80%A2%20Full-Stack%20Developer%20(PHP%20%2F%20JS)%20%E2%80%A2%20&fontSize=15&fontColor=39D353&animation=fadeIn&fontAlignY=60" alt="tagline"/>
 </p>
 
 ---
