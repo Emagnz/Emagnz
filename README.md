@@ -1,15 +1,6 @@
 <h1 align="center">¡Hola! Soy Emanuel Gonzalez 👋</h1>
 <h3 align="center">Desarrollador Web Junior (Front-end / Back-end) 🚀</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/emanuel-gonzalez/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:emagonzalez2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://img.shields.io/badge/San%20Luis-Argentina-75AADB?style=flat&logo=googlemaps&logoColor=white" alt="Location"/>
-</p>
 
 ---
 
