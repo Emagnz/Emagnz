@@ -1,4 +1,6 @@
-# 👋 ¡Hola! Soy Emanuel Gonzalez
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,100:0A66C2&height=200&section=header&text=Emanuel%20Gonzalez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web%20Junior%20%7C%20Full-Stack&descAlignY=58&descSize=20" alt="header banner"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/Emagnz">
@@ -85,12 +87,12 @@ Me apasiona construir aplicaciones robustas, escalables y eficientes, aplicando 
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emagnz&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emagnz&theme=radial&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Emagnz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Emagnz&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emagnz&layout=compact&theme=radial&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emagnz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
 </p>
 
 ---
