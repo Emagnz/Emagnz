@@ -1,11 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,100:0A66C2&height=200&section=header&text=Emanuel%20Gonzalez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web%20Junior%20%7C%20Full-Stack&descAlignY=58&descSize=20" alt="header banner"/>
 </p>
+
 <p align="center">
-  <a href="https://github.com/Emagnz">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Desarrollador+Web+Junior;Full-Stack+Developer+(PHP+/+JS);Apasionado+por+la+Tecnología" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=45&section=header&text=Desarrollador%20Web%20Junior%20%E2%80%A2%20Full-Stack%20Developer%20(PHP%20%2F%20JS)%20%E2%80%A2%20Apasionado%20por%20la%20Tecnolog%C3%ADa&fontSize=15&fontColor=39D353&animation=fadeIn&fontAlignY=60" alt="tagline"/>
 </p>
+
 ---
 
 ### 🚀 Sobre Mí
@@ -83,6 +83,9 @@ Me apasiona construir aplicaciones robustas, escalables y eficientes, aplicando 
 ---
 
 ### 📊 Estadísticas de GitHub
+
+> ℹ️ Usa [GitHub-Stats-Extended](https://github.com/stats-organization/github-stats-extended), el fork mantenido activamente que reemplaza al servicio público original (pausado desde enero 2026). Misma sintaxis, mismos parámetros.
+
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Emagnz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=Emagnz&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165"/>
